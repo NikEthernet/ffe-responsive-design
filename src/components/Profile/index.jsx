@@ -10,7 +10,7 @@ const Profile = ({ name, description, email, linkedIn }) => {
         <h1>{name}</h1>
       </div>
       <div className={styles.about}>
-        <h2>About Me</h2>
+        <h2>About Ur Mom!!!</h2>
         <p>{description}</p>
         <p>
           <strong>Email Address: </strong>

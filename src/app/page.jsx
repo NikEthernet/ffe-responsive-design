@@ -22,7 +22,7 @@ export default function Home() {
       <div className={styles.dashboard}>
         <div className={styles.profile}>
           <Profile
-            name="John Doe"
+            name="Nik"
             description={profileDescription}
             email="johndoe@gmail.com"
             linkedIn="https://www.linkedin.com/in/john-doe-7418a3b0/"
